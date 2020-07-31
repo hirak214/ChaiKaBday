@@ -1,0 +1,102 @@
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: gray;
+   color: white;
+   text-align: center;
+}
+
+iframe {
+      width: 1000px; /* It should not be 100% */
+      height: 600px;
+      margin-left: auto;   /* Automatic margin from left */
+      margin-right: auto; /* Automatic margin from right */
+     }
+
+
+     .clip-text {
+       background: url('https://media.giphy.com/media/aCCleAr6W1njtygxHC/giphy.gif');
+       background-size: cover;
+       background-position: center;
+       -webkit-background-clip: text;
+       color: transparent;
+       width: auto;
+       height: auto;
+       font-weight: bold;
+       font-size: 45px;
+
+       text-align: center;
+       line-height: 100px;
+
+     }
+
+     .clip-text1 {
+       background: url('https://media.giphy.com/media/4QFdKe8O6lVO12HPsT/giphy.gif');
+       background-size: cover;
+       background-position: center;
+       -webkit-background-clip: text;
+       color: transparent;
+       width: auto;
+       height: auto;
+       font-weight: bold;
+       font-size: 50px;
+
+       text-align: center;
+       line-height: auto;
+
+     }
+
+     .clip-text2 {
+       background: url('https://media.giphy.com/media/26AHz7xlRTuEMCPPa/giphy.gif');
+       background-size: cover;
+       background-position: center;
+       -webkit-background-clip: text;
+       color: transparent;
+       width: auto;
+       height: auto;
+       font-weight: bold;
+       font-size: 45px;
+
+       text-align: center;
+       line-height: 100px;
+
+     }
+
+
+
+
+
+     #footer{
+    background-color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+  }
+  .social-media{
+    color: #000;
+    margin: 10px 10px;
+  }
+  .Last-Text{
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+  }
+  .CopyRText{
+    margin-top :15px;
+
+  }
+  .icon{
+    /* color: #336d88; */
+    /* color: #438a5e; */
+    color: #3b6978;
+    margin-bottom: 1rem;
+
+  }
+  .icon:hover{
+    color: #1f4068;
+}
